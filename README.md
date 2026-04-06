@@ -1,7 +1,7 @@
-# UBDS Manager v2.0.0
+# UBDS Manager v2.1.0
 ## Universal Bedrock Dedicated Server (Plugin Support)
 
-**Version**: 2.0.0  
+**Version**: 2.1.0  
 
 ---
 
